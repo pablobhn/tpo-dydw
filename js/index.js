@@ -21,7 +21,7 @@ class NavVar extends HTMLElement {
                       </label>
                       <ul class="bee-horizontal with-bee-hamburger">
                           <li>
-                              <a href="./home.html" target="_self" title="EXPLORE DISCOUNTS">
+                              <a href="./index.html" target="_self" title="EXPLORE DISCOUNTS">
                                   CES 2023</a>
                           </li>
                           <li>
@@ -37,7 +37,7 @@ class NavVar extends HTMLElement {
                                   CONTACTO</a>
                           </li>
                           <li>
-                              <a href="./home.html" target="_self" title="TESTIMONIALES">
+                              <a href="./index.html" target="_self" title="TESTIMONIALES">
                                   STREAMING</a>
                           </li>
                       </ul>
