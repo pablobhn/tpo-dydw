@@ -29,3 +29,6 @@ SEO y accesibilidad:
     • /css (hoja/s de estilo)
     • /js (javascript)
 - [x] Deberán agregar al menos un componente en java <script>
+
+Agregados en base al feedback:   
+- [ ] Checkear que ninguna imagen de mas de 500 kb

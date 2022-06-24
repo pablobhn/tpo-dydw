@@ -157,25 +157,25 @@ class NavVar extends HTMLElement {
                     <div class="bee-block bee-block-4 bee-social">
                         <div class="content">
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.facebook.com/">
+                                <a href="https://www.facebook.com/hashtag/ces2023">
                                     <img alt="Facebook"
                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/facebook@2x.png"
                                         title="facebook"></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.twitter.com/">
+                                <a href="https://www.twitter.com/hashtag/ces2023">
                                     <img alt="Twitter"
                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/twitter@2x.png"
                                         title="twitter"></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.linkedin.com/">
+                                <a href="https://www.linkedin.com/showcase/ceslasvegas/">
                                     <img alt="Linkedin"
                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/linkedin@2x.png"
                                         title="linkedin"></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.instagram.com/">
+                                <a href="https://www.instagram.com/ces">
                                     <img alt="Instagram"
                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/instagram@2x.png"
                                         title="instagram"></a>
