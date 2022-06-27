@@ -3,6 +3,10 @@
 	position: relative
 }
 
+.bee-icon-label-bottom a {
+	color: #FFF;
+}
+
 .bee-form .bee-form-row .bee-field button {
 	font-family: inherit;
 	font-size: inherit
