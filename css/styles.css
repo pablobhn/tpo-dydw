@@ -1,6 +1,7 @@
 .bee-row,
 .bee-row-content {
-	position: relative
+	position: relative;
+	justify-content: center;
 }
 
 .bee-icon-label-bottom a {
@@ -691,6 +692,10 @@ p {
 @media (max-width:768px) {
 	.bee-form form {
 		width: 100% !important
+	}
+
+	#logo-samsung {
+		display: none;
 	}
 
 	.bee-menu ul.with-bee-hamburger {

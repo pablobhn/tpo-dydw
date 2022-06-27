@@ -3,7 +3,7 @@ class NavVar extends HTMLElement {
       this.innerHTML = `
       <div id="main-header" class="bee-row bee-row-header">
       <div class="bee-row-content">
-          <div class="bee-col bee-col-1 bee-col-w2">
+          <div id="logo-samsung" class="bee-col bee-col-1 bee-col-w2">
               <div class="bee-block bee-block-1 bee-image">
                   <img alt="Logo samsung" class="bee-center bee-fixedwidth bee-fullwidthOnMobile"
                       src="img/SamsungLogo.gif" style="max-width:166px;" />
