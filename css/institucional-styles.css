@@ -1,7 +1,7 @@
-
 .bee-row,
 .bee-row-content {
-    position: relative
+	position: relative;
+	justify-content: center;
 }
 
 .bee-form .bee-form-row .bee-field button {

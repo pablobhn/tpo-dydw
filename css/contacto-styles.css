@@ -1,7 +1,12 @@
-
 .bee-row,
 .bee-row-content {
-    position: relative
+	position: relative;
+	justify-content: center;
+}
+
+.map {
+width: 60%;
+height: 450px;
 }
 
 .bee-form .bee-form-row .bee-field button {
@@ -400,6 +405,11 @@ p {
     .bee-form form {
         width: 100% !important
     }
+
+    .map {
+        width: 80%;
+        height: 250px;
+        }
 
     .bee-menu ul.with-bee-hamburger {
         display: none;
