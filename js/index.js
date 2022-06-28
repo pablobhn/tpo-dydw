@@ -157,19 +157,19 @@ class NavVar extends HTMLElement {
                     <div class="bee-block bee-block-4 bee-social">
                         <div class="content" style="text-align: center;">
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.facebook.com/">
+                                <a href="https://www.facebook.com/hashtag/ces2023">
                                     <img alt="Facebook" src="img/facebook2x.png" title="facebook" /></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.twitter.com/">
+                                <a href="https://twitter.com/hashtag/ces2023">
                                     <img alt="Twitter" src="img/twitter2x.png" title="twitter" /></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.linkedin.com/">
+                                <a href="https://www.linkedin.com/search/results/all/?keywords=%23CES2023">
                                     <img alt="Linkedin" src="img/linkedin2x.png" title="linkedin" /></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
-                                <a href="https://www.instagram.com/">
+                                <a href="https://www.instagram.com/ces/">
                                     <img alt="Instagram" src="img/instagram2x.png" title="instagram" /></a>
                             </span>
                         </div>
