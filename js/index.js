@@ -21,23 +21,23 @@ class NavVar extends HTMLElement {
                       </label>
                       <ul class="bee-horizontal with-bee-hamburger">
                           <li>
-                              <a id="menu1" class="sortType" href="./index.html" target="_blank" title="EXPLORE DISCOUNTS">
+                              <a id="menu1" class="sortType" href="./index.html" target="_self" title="EXPLORE DISCOUNTS">
                                   CES 2023</a>
                           </li>
                           <li>
-                              <a id="menu2" class="sortType" href="./institucional.html" target="_blank" title="CATEGORIES">
+                              <a id="menu2" class="sortType" href="./institucional.html" target="_self" title="CATEGORIES">
                                   QUIENES SOMOS</a>
                           </li>
                           <li>
-                              <a id="menu3" class="sortType" href="./novedades.html" target="_blank" title="INSTRUCTORS">
+                              <a id="menu3" class="sortType" href="./novedades.html" target="_self" title="INSTRUCTORS">
                                   NOVEDADES</a>
                           </li>
                           <li>
-                              <a id="menu4" class="sortType" href="./contacto.html" target="_blank" title="TIPS BLOG">
+                              <a id="menu4" class="sortType" href="./contacto.html" target="_self" title="TIPS BLOG">
                                   CONTACTO</a>
                           </li>
                           <li>
-                              <a id="menu5" class="sortType" href="./streaming.html" target="_blank" title="TESTIMONIALES">
+                              <a id="menu5" class="sortType" href="./streaming.html" target="_self" title="TESTIMONIALES">
                                   STREAMING</a>
                           </li>
                       </ul>
@@ -140,14 +140,14 @@ class NavVar extends HTMLElement {
                             style="line-height: 200%; font-size: 12px; font-family: inherit; color: #fff; text-align: center;">
                             <p style="font-size: 16px; line-height: 32px;">
                                 <span style="font-size: 16px; line-height: 32px;">
-                                    <a href="./index.html" style="text-decoration:none;color:white;" target="_blank"
+                                    <a href="./index.html" style="text-decoration:none;color:white;" target="_self"
                                         title="STREAMING">
                                         STREAMING</a>
                                 </span>
                             </p>
                             <p style="font-size: 16px; line-height: 32px;">
                                 <span style="font-size: 16px; line-height: 32px;">
-                                    <a href="./contacto.html" style="text-decoration:none;color:white;" target="_blank"
+                                    <a href="./contacto.html" style="text-decoration:none;color:white;" target="_self"
                                         title="CONTACTO">
                                         NUESTRAS REDES</a>
                                 </span>
@@ -158,19 +158,19 @@ class NavVar extends HTMLElement {
                         <div class="content" style="text-align: center;">
                             <span class="icon" style="padding:0 10px 0 10px;">
                                 <a href="https://www.facebook.com/hashtag/ces2023">
-                                    <img alt="Facebook" src="img/facebook2x.png" title="facebook" /></a>
+                                    <img alt="Facebook" src="img/facebook2x.png" title="facebook" target="_blank" /></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
                                 <a href="https://twitter.com/hashtag/ces2023">
-                                    <img alt="Twitter" src="img/twitter2x.png" title="twitter" /></a>
+                                    <img alt="Twitter" src="img/twitter2x.png" title="twitter" target="_blank" /></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
                                 <a href="https://www.linkedin.com/search/results/all/?keywords=%23CES2023">
-                                    <img alt="Linkedin" src="img/linkedin2x.png" title="linkedin" /></a>
+                                    <img alt="Linkedin" src="img/linkedin2x.png" title="linkedin" target="_blank" /></a>
                             </span>
                             <span class="icon" style="padding:0 10px 0 10px;">
                                 <a href="https://www.instagram.com/ces/">
-                                    <img alt="Instagram" src="img/instagram2x.png" title="instagram" /></a>
+                                    <img alt="Instagram" src="img/instagram2x.png" title="instagram" target="_blank" /></a>
                             </span>
                         </div>
                     </div>
@@ -204,7 +204,7 @@ class NavVar extends HTMLElement {
                     </div>
                     <div class="bee-block bee-block-3 bee-form">
                         <form accept-charset="UTF-8" action="ACTION_PLACEHOLDER" autocomplete="on" enctype="multipart/form-data"
-                            method="post" target="_blank">
+                            method="post" target="_self">
                             <div class="bee-form-row">
                                 <div class="bee-field bee-field-id_qos9oa">
                                     <label for="id_qos9oa">
