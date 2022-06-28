@@ -178,9 +178,9 @@ body {
 
 @media (max-width:768px) {
     
-	#logo-samsung {
-		display: none;
-	}
+    #logo-samsung {
+        display: none;
+    }
 
     .bee-menu ul.with-bee-hamburger {
         display: none;

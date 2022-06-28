@@ -21,23 +21,23 @@ class NavVar extends HTMLElement {
                       </label>
                       <ul class="bee-horizontal with-bee-hamburger">
                           <li>
-                              <a id="menu1" class="sortType" href="./index.html" target="_self" title="EXPLORE DISCOUNTS">
+                              <a id="menu1" class="sortType" href="./index.html" target="_blank" title="EXPLORE DISCOUNTS">
                                   CES 2023</a>
                           </li>
                           <li>
-                              <a id="menu2" class="sortType" href="./institucional.html" target="_self" title="CATEGORIES">
+                              <a id="menu2" class="sortType" href="./institucional.html" target="_blank" title="CATEGORIES">
                                   QUIENES SOMOS</a>
                           </li>
                           <li>
-                              <a id="menu3" class="sortType" href="./novedades.html" target="_self" title="INSTRUCTORS">
+                              <a id="menu3" class="sortType" href="./novedades.html" target="_blank" title="INSTRUCTORS">
                                   NOVEDADES</a>
                           </li>
                           <li>
-                              <a id="menu4" class="sortType" href="./contacto.html" target="_self" title="TIPS BLOG">
+                              <a id="menu4" class="sortType" href="./contacto.html" target="_blank" title="TIPS BLOG">
                                   CONTACTO</a>
                           </li>
                           <li>
-                              <a id="menu5" class="sortType" href="./streaming.html" target="_self" title="TESTIMONIALES">
+                              <a id="menu5" class="sortType" href="./streaming.html" target="_blank" title="TESTIMONIALES">
                                   STREAMING</a>
                           </li>
                       </ul>
@@ -140,14 +140,14 @@ class NavVar extends HTMLElement {
                             style="line-height: 200%; font-size: 12px; font-family: inherit; color: #fff; text-align: center;">
                             <p style="font-size: 16px; line-height: 32px;">
                                 <span style="font-size: 16px; line-height: 32px;">
-                                    <a href="./index.html" style="text-decoration:none;color:white;" target="_self"
+                                    <a href="./index.html" style="text-decoration:none;color:white;" target="_blank"
                                         title="STREAMING">
                                         STREAMING</a>
                                 </span>
                             </p>
                             <p style="font-size: 16px; line-height: 32px;">
                                 <span style="font-size: 16px; line-height: 32px;">
-                                    <a href="./contacto.html" style="text-decoration:none;color:white;" target="_self"
+                                    <a href="./contacto.html" style="text-decoration:none;color:white;" target="_blank"
                                         title="CONTACTO">
                                         NUESTRAS REDES</a>
                                 </span>
@@ -204,7 +204,7 @@ class NavVar extends HTMLElement {
                     </div>
                     <div class="bee-block bee-block-3 bee-form">
                         <form accept-charset="UTF-8" action="ACTION_PLACEHOLDER" autocomplete="on" enctype="multipart/form-data"
-                            method="post" target="_self">
+                            method="post" target="_blank">
                             <div class="bee-form-row">
                                 <div class="bee-field bee-field-id_qos9oa">
                                     <label for="id_qos9oa">
