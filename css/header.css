@@ -8,6 +8,10 @@
     display:flex !important;
 }
 
+.actual{
+    border-bottom: 3px solid violet!important;
+}
+
 .bee-row,
 .bee-row-content {
     position: relative

@@ -21,23 +21,23 @@ class NavVar extends HTMLElement {
                       </label>
                       <ul class="bee-horizontal with-bee-hamburger">
                           <li>
-                              <a href="./index.html" target="_self" title="EXPLORE DISCOUNTS">
+                              <a id="menu1" class="sortType" href="./index.html" target="_self" title="EXPLORE DISCOUNTS">
                                   CES 2023</a>
                           </li>
                           <li>
-                              <a href="./institucional.html" target="_self" title="CATEGORIES">
+                              <a id="menu2" class="sortType" href="./institucional.html" target="_self" title="CATEGORIES">
                                   QUIENES SOMOS</a>
                           </li>
                           <li>
-                              <a href="./novedades.html" target="_self" title="INSTRUCTORS">
+                              <a id="menu3" class="sortType" href="./novedades.html" target="_self" title="INSTRUCTORS">
                                   NOVEDADES</a>
                           </li>
                           <li>
-                              <a href="./contacto.html" target="_self" title="TIPS BLOG">
+                              <a id="menu4" class="sortType" href="./contacto.html" target="_self" title="TIPS BLOG">
                                   CONTACTO</a>
                           </li>
                           <li>
-                              <a href="./index.html" target="_self" title="TESTIMONIALES">
+                              <a id="menu5" class="sortType" href="./streaming.html" target="_self" title="TESTIMONIALES">
                                   STREAMING</a>
                           </li>
                       </ul>
